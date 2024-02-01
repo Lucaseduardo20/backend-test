@@ -16,3 +16,8 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('welcome');
 });
+
+Route::get('/r/{redirect}', 'RedirectController@redirect');
+Route::resource('redirects', 'RedirectController');
+Route::get('redirects/{redirect}/stats', 'RedirectController@stats');
+Route::get('redirects/{redirect}/logs', 'RedirectLogController@index');
