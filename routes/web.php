@@ -1,6 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\RedirectController;
 
 /*
 |--------------------------------------------------------------------------
@@ -21,3 +22,4 @@ Route::get('/r/{redirect}', 'RedirectController@redirect');
 Route::resource('redirects', 'RedirectController');
 Route::get('redirects/{redirect}/stats', 'RedirectController@stats');
 Route::get('redirects/{redirect}/logs', 'RedirectLogController@index');
+Route::get('/r/{redirect}', [RedirectController::class, 'redirect'])->name('redirect');
