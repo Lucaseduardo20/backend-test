@@ -4,19 +4,19 @@ Esse documento visa coletar feedbacks sobre o teste de desenvolvimento. Desde o 
 ## Antes de Iniciar o Teste
 
 1 - Fale sobre suas primeiras impressões do Teste:
-> Resposta
+> Ao visualizar, como primeira impressão vi que não se tratava de um teste simples, acredito que seja por eu não ter trabalhado com redirects no back-end, sempre fiz configurações de rotas através do front-end nas aplicações que trabalhei anteriormente.
 
 2 - Tempo estimado para o teste:
-> Resposta
+> Acredito que será necessário cerca de 15 horas para o desenvolvimento do teste.
 
 3 - Qual parte você no momento considera mais difícil?
-> Resposta
+> Ao meu ver, acredito que a parte mais difícil será com relação aos testes.
 
 4 - Qual parte você no momento considera que levará mais tempo?
-> Resposta
+> Acredito que a parte dos testes será a que leverá mais tempo.
 
 5 - Por onde você pretende começar?
-> Resposta
+> Irei iniciar construindo a estrutura de redirects e controllers.
 
 
 ## Após o Teste
