@@ -22,16 +22,16 @@ Esse documento visa coletar feedbacks sobre o teste de desenvolvimento. Desde o 
 ## Após o Teste
 
 1 - O que você achou do teste?
-> Resposta
+> Achei que é um teste eficiente e desafiador para a vaga em questão.
 
 2 - Levou mais ou menos tempo do que você esperava?
-> Resposta
+> Levei cerca de 12 horas para elaborar o teste, um pouco menos de tempo do que eu esperava.
 
 3 - Teve imprevistos? Quais?
-> Resposta
+> Tive alguns imprevistos quanto a implementação dos testes.
 
 4 - Existem pontos que você gostaria de ter melhorado?
-> Resposta
+> Poderia ter feito testes melhores ao meu ver pois não possuía tanto conhecimento no PHPUnit para elaborar bons testes.
 
 5 - Quais falhas você encontrou na estrutura do projeto?
-> Resposta
+> Não encontrei falhas na estrutura.
